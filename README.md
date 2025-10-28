@@ -14,13 +14,20 @@ This project allows users to search for high-quality images by keyword and view 
 
 *) Tech Stack
 HTML5 – Structure of the webpage
+
 CSS3 – Styling and layout
+
 JavaScript (ES6) – Functionality and API handling
+
 Unsplash API – Provides access to high-quality, free images
 
 *) How It Works
 1)The user enters a search term in the input box.
+
 2)JavaScript captures the input and sends a fetch() request to the Unsplash API.
+
 3)The API returns a JSON response containing image data.
+
 4)The app dynamically creates image elements (<img>) and displays them on the page.
+
 5)Clicking “Show More” fetches and displays the next set of images.
