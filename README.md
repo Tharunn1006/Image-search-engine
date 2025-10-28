@@ -3,9 +3,13 @@ This project allows users to search for high-quality images by keyword and view 
 
 *) Features
 ->Search for any keyword (e.g., “nature”, “cars”, “animals”)
+
 ->Fetch real-time image results using the Unsplash API
+
 ->“Show More” button to load additional images (pagination support)
+
 ->Clickable images that open the original photo on Unsplash
+
 ->Responsive and minimal design with custom styling in CSS
 
 *) Tech Stack
