@@ -2,6 +2,7 @@ An Image Search Engine web app built using HTML, CSS, and JavaScript, integrated
 This project allows users to search for high-quality images by keyword and view them directly on the page. Users can also load more results using the “Show More” button, thanks to API pagination.
 
 *) Features
+
 ->Search for any keyword (e.g., “nature”, “cars”, “animals”)
 
 ->Fetch real-time image results using the Unsplash API
@@ -13,15 +14,16 @@ This project allows users to search for high-quality images by keyword and view 
 ->Responsive and minimal design with custom styling in CSS
 
 *) Tech Stack
-HTML5 – Structure of the webpage
+->HTML5 – Structure of the webpage
 
-CSS3 – Styling and layout
+->CSS3 – Styling and layout
 
-JavaScript (ES6) – Functionality and API handling
+->JavaScript (ES6) – Functionality and API handling
 
-Unsplash API – Provides access to high-quality, free images
+->Unsplash API – Provides access to high-quality, free images
 
 *) How It Works
+
 1)The user enters a search term in the input box.
 
 2)JavaScript captures the input and sends a fetch() request to the Unsplash API.
